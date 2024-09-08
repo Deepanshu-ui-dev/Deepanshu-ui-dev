@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Deepanshu kaushik</h1>
-<h3 align="center">👋 Hi there! I'm Deepanshu Kaushik! I am a dedicated second-year student with a strong passion for Data Science, MERN Stack Development, and Data Structures & Algorithms (DSA). I love diving into data to uncover meaningful insights and building seamless, user-friendly web experiences. 💻 I am constantly learning and expanding my skill set, and I'm excited about the endless possibilities that technology offers to solve real-world problems. 🚀 Let's connect, collaborate, and explore exciting opportunities together!</h3>
+<h3 align="center">Hi there! 👋 I’m Deepanshu Kaushik, a tech enthusiast with a flair for Data Science 📊, MERN Stack Development 💻, and Data Structures & Algorithms 🔍. I love transforming data into actionable insights and crafting sleek, user-friendly web experiences 🌐. Driven by a passion for innovation and continuous learning, I’m excited to explore new horizons and tackle real-world challenges with technology 🚀. Let’s connect and create amazing things together!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepanshu-ui-dev&label=Profile%20views&color=0e75b6&style=flat" alt="deepanshu-ui-dev" /> </p>
 
@@ -16,8 +16,8 @@
 <a href="https://linkedin.com/in/deepanshu kaushik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deepanshu kaushik" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/deepanshu035" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="deepanshu035" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/deepanshu kaushik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="deepanshu kaushik" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/kaushikdeepanshu034" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kaushikdeepanshu034" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/kaushikdeewj10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="kaushikdeewj10" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/iDcHhFOeFb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kaushikdeepanshu034" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/deepanshukkxx7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="kaushikdeewj10" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
