@@ -13,7 +13,7 @@
 <h3 align="left">Connect with me:</h3>
 <img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/C4E12AQHhfpP2slLoXw/article-cover_image-shrink_600_2000/0/1578791251071?e=2147483647&v=beta&t=z0mDGgtn6FZAR_FAWN0lu2QP80ugvAfOnWcJ3acz7Rk">
 <p align="left">
-<a href="https://www.linkedin.com/in/deepanshu-kaushik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deepanshu kaushik" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/deepanshu-kaushik-174059297" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deepanshu kaushik" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/deepanshu035" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="deepanshu035" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/2023B1541216" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="deepanshu kaushik" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/iDcHhFOeFb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kaushikdeepanshu034" height="30" width="40" /></a>
