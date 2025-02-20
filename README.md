@@ -16,7 +16,7 @@
 <a href="https://www.linkedin.com/in/deepanshu-kaushik-174059297" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deepanshu kaushik" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/deepanshu035" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="deepanshu035" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/2023B1541216" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="deepanshu kaushik" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/iDcHhFOeFb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kaushikdeepanshu034" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/Deepanshu903" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kaushikdeepanshu034" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/deepanshukkxx7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="kaushikdeewj10" height="30" width="40" /></a>
 </p>
 
