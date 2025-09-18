@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Deepanshu Kaushik</h1>
 <h3 align="center">
 Hi there! 👋 I’m Deepanshu Kaushik, a tech enthusiast with a passion for Data Science 📊, Android Development 📱 (Dart & Flutter), and Data Structures & Algorithms 🔍.  
-Alongside coding, I’m also a creative **UI/UX Designer 🎨** who loves crafting intuitive, user-friendly experiences using tools like **Figma and Canva**.  
+Alongside coding, I’m also a creative UI/UX Designer 🎨 who loves crafting intuitive, user-friendly experiences using tools like Figma and Framer.  
 Driven by curiosity, innovation, and continuous learning, I aim to build impactful apps and designs that solve real-world challenges 🚀.  
 Let’s connect and create something amazing together! 🌟
 </h3>
