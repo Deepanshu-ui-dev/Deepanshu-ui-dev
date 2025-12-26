@@ -1,6 +1,5 @@
 # 💫 About Me
 I build scalable, user-centric applications by combining **Flutter development**, **strong problem-solving skills (DSA)**, and **clean UI/UX principles**.  
-Focused on writing maintainable code and delivering practical solutions with attention to performance and design.
 
 ---
 
