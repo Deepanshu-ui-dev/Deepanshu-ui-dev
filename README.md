@@ -1,84 +1,69 @@
-![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)
-
-<h1 align="center">Hi 👋, I'm Deepanshu Kaushik</h1>
-<h3 align="center">
-Hi there! 👋 I’m Deepanshu Kaushik, a tech enthusiast with a passion for Data Science 📊, Android Development 📱 (Dart & Flutter), and Data Structures & Algorithms 🔍.  
-Alongside coding, I’m also a creative UI/UX Designer 🎨 who loves crafting intuitive, user-friendly experiences using tools like Figma and Framer.  
-Driven by curiosity, innovation, and continuous learning, I aim to build impactful apps and designs that solve real-world challenges 🚀.  
-Let’s connect and create something amazing together! 🌟
-</h3>
-
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=deepanshu-ui-dev&label=Profile%20views&color=0e75b6&style=flat" alt="deepanshu-ui-dev" /> 
-</p>
+# 💫 About Me
+I build scalable, user-centric applications by combining **Flutter development**, **strong problem-solving skills (DSA)**, and **clean UI/UX principles**.  
+Focused on writing maintainable code and delivering practical solutions with attention to performance and design.
 
 ---
 
-- 🌱 I’m currently focused on enhancing my skills in **Data Structures and Algorithms (DSA), Android Development, and UI/UX Design**.  
-- 📫 Reach me at **kaushikdeepanshu034@gmail.com**
+## 🌐 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/deepanshu-kaushik)
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Deepanshu25u)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kaushikdeepanshu034@gmail.com)
 
 ---
 
-<h3 align="left">🌐 Connect with me:</h3>
-<img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/C4E12AQHhfpP2slLoXw/article-cover_image-shrink_600_2000/0/1578791251071?e=2147483647&v=beta&t=z0mDGgtn6FZAR_FAWN0lu2QP80ugvAfOnWcJ3acz7Rk">
+## 💻 Technical Skills
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/deepanshu-kaushik-174059297" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Deepanshu Kaushik" height="30" width="40" />
-  </a>
-  <a href="https://www.codechef.com/users/deepanshu035" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="deepanshu035" height="30" width="40" />
-  </a>
-  <a href="https://www.hackerrank.com/2023B1541216" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="deepanshu hackerrank" height="30" width="40" />
-  </a>
-  <a href="https://leetcode.com/u/Deepanshu25u/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Deepanshu25u" height="30" width="40" />
-  </a>
-  <a href="https://auth.geeksforgeeks.org/user/deepanshukkxx7" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GFG" height="30" width="40" />
-  </a>
-</p>
+### Mobile Development (Flutter)
+- Flutter (Material & Cupertino UI)
+- Dart (OOP, async/await, streams)
+- Responsive & adaptive UI
+- State management (Provider / basic Riverpod concepts)
+- REST API integration
+- Firebase (Auth, Firestore – basic)
+- Clean architecture & reusable widgets
 
----
+### Programming Languages
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-<h3 align="left">🛠 Languages and Tools:</h3>
-<p align="left"> 
-  <!-- Android / Flutter -->
-  <a href="https://dart.dev/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a>
-  <a href="https://flutter.dev/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
-  <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/android-studio-1.svg" alt="android-studio" width="40" height="40"/> </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
-  
-  <!-- Core programming -->
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-  
-  <!-- UI/UX Design -->
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
-  <a href="https://www.canva.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/canva-1.svg" alt="canva" width="40" height="40"/> </a>
-  <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-photoshop-2.svg" alt="photoshop" width="40" height="40"/> </a>
+### Web Technologies
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-  <!-- Others -->
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-</p>
+### Cloud & Deployment
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020.svg?style=for-the-badge&logo=Cloudflare&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+
+### Databases & Design
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Framer](https://img.shields.io/badge/Framer-black.svg?style=for-the-badge&logo=framer&logoColor=blue)
+![Sketch](https://img.shields.io/badge/Sketch-FFB387.svg?style=for-the-badge&logo=sketch&logoColor=black)
+![Adobe](https://img.shields.io/badge/Adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 ---
 
-<h3 align="left">📊 GitHub Stats:</h3>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deepanshu-ui-dev&show_icons=true&locale=en&layout=compact" alt="deepanshu-ui-dev" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deepanshu-ui-dev&show_icons=true&locale=en" alt="deepanshu-ui-dev" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deepanshu-ui-dev&" alt="deepanshu-ui-dev" /></p>
-
----
-
-<h3 align="left">💡 LeetCode Stats:</h3>
-
+## 📊 GitHub Stats
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/Deepanshu25u" alt="LeetCode Stats" />
+ 
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Deepanshu-ui-dev&theme=dark&hide_border=false" height="165" />
 </p>
+
+
+---
+
+## 🧠 LeetCode Stats
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Deepanshu25u?theme=dark&theme=dark&hide_border=false" height="165" />
+</p>
+
+---
+
