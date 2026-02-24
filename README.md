@@ -55,14 +55,5 @@ I build scalable, user-centric applications by combining **Flutter development**
  
   <img src="https://nirzak-streak-stats.vercel.app/?user=Deepanshu-ui-dev&theme=dark&hide_border=false" height="165" />
 </p>
-
-
----
-
-## 🧠 LeetCode Stats
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/Deepanshu25u?theme=dark&theme=dark&hide_border=false" height="165" />
-</p>
-
 ---
 
