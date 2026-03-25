@@ -50,10 +50,4 @@ I build scalable, user-centric applications by combining **Flutter development**
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
- 
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Deepanshu-ui-dev&theme=dark&hide_border=false" height="165" />
-</p>
----
 
