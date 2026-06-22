@@ -2,7 +2,7 @@
 <!--                        HERO BANNER                                -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,35:000814,70:001220,100:0096FF&height=230&section=header&text=DEEPANSHU%20KAUSHIK&fontSize=54&fontColor=00BFFF&animation=fadeIn&fontAlignY=40&desc=%F0%9F%92%BB%20Software%20Developer%20%E2%80%A2%20Flutter%20Dev%20%E2%80%A2%20Designer&descAlignY=65&descSize=17&descColor=4dd0ff&stroke=00BFFF&strokeWidth=1"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,35:000814,70:001220,100:0096FF&height=230&section=header&text=DEEPANSHU%20KAUSHIK&fontSize=54&fontColor=00BFFF&animation=fadeIn&fontAlignY=40&desc=Software%20Developer%20%E2%80%A2%20Flutter%20Dev%20%E2%80%A2%20Designer&descAlignY=65&descSize=17&descColor=4dd0ff&stroke=00BFFF&strokeWidth=1"/>
 
 <div align="center">
 
