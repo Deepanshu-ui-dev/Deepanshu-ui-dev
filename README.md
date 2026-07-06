@@ -136,26 +136,6 @@
 
 </div>
 
-<br/>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                       GITHUB STATS                                -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-
-## 📊 `$ git log --stat`
-
-<div align="center">
-
-<a href="https://github.com/Deepanshu-ui-dev">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=Deepanshu-ui-dev&show_icons=true&theme=dark&bg_color=000000&title_color=00BFFF&icon_color=00BFFF&text_color=cccccc&border_color=1a1a1a&hide_border=false&rank_icon=github"/>
-</a>
-<a href="https://github.com/Deepanshu-ui-dev">
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs?username=Deepanshu-ui-dev&layout=compact&theme=dark&bg_color=000000&title_color=00BFFF&text_color=cccccc&border_color=1a1a1a&hide_border=false&langs_count=8"/>
-</a>
-
-</div>
 
 <br/>
 
