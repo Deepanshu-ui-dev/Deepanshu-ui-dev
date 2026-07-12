@@ -1,34 +1,35 @@
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                        HERO BANNER                                -->
+<!--            PREMIUM GITHUB README - DEEPANSHU KAUSHIK               -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,35:000814,70:001220,100:0096FF&height=230&section=header&text=DEEPANSHU%20KAUSHIK&fontSize=54&fontColor=00BFFF&animation=fadeIn&fontAlignY=40&desc=Software%20Developer%20%E2%80%A2%20Flutter%20Dev%20%E2%80%A2%20Designer&descAlignY=65&descSize=17&descColor=4dd0ff&stroke=00BFFF&strokeWidth=1"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e27,25:1a2d4d,50:0d47a1,75:1565c0,100:0a0e27&height=260&section=header&text=DEEPANSHU%20KAUSHIK&fontSize=60&fontColor=ffd89b&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20%7C%20Flutter%20Specialist%20%7C%20UI%2FUX%20Designer&descAlignY=60&descSize=18&descColor=ffb347&stroke=ffd89b&strokeWidth=2"/>
 
 <div align="center">
 
-<!-- ANIMATED ROLES -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&pause=900&color=00BFFF&center=true&vCenter=true&repeat=true&width=700&height=45&lines=I+build+what+is+needed.+If+I+don%27t+know+it%2C+I%27ll+learn+it.+%F0%9F%9A%80;Flutter+%2B+Clean+UI+%2B+DSA+is+my+love+language+%F0%9F%92%99;Crafting+pixel-perfect+apps%2C+one+widget+at+a+time+%F0%9F%93%B1;Designer+who+codes+%7C+Coder+who+designs+%F0%9F%96%A5%EF%B8%8F;I+know+how+to+get+things+done.+Period.+%E2%9A%A1" alt="Typing SVG" />
-
-<br/>
-
-<!-- SOCIAL BADGES -->
-<a href="https://www.deepanshux.tech/">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=crome&logoColor=00BFFF"/>
-</a>
-</a>&nbsp;&nbsp;
-<a href="mailto:imdeepanshu4work@gmail.com">
-  <img src="https://img.shields.io/badge/Email%20Me-000000?style=for-the-badge&logo=gmail&logoColor=00BFFF"/>
-</a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/imdeepanshukaushik/">
-  <img src="https://img.shields.io/badge/Connect-000000?style=for-the-badge&logo=linkedin&logoColor=00BFFF"/>
-</a>&nbsp;&nbsp;
-<a href="https://x.com/Deepanshu25u">
-  <img src="https://img.shields.io/badge/Follow-000000?style=for-the-badge&logo=x&logoColor=00BFFF"/>
-</a>
+<!-- ANIMATED TYPING EFFECT -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1000&color=ffd89b&center=true&vCenter=true&repeat=true&width=750&height=50&lines=Building+beautiful%2C+scalable+apps+%F0%9F%9A%80;Flutter+%2B+Clean+UI+%2B+DSA+Enthusiast+%F0%9F%92%99;Pixel-perfect+design+meets+solid+code+%F0%9F%93%B1" alt="Typing SVG" />
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Deepanshu-ui-dev&label=PROFILE+VIEWS&color=00BFFF&style=for-the-badge&labelColor=000000" alt="Profile Views"/>
+<!-- PREMIUM SOCIAL BADGES -->
+<div style="display: flex; justify-content: center; gap: 12px; flex-wrap: wrap;">
+<a href="https://www.deepanshux.tech/" target="_blank">
+  <img src="https://img.shields.io/badge/🌐_Portfolio-ffd89b?style=for-the-badge&labelColor=1a2d4d&color=0a0e27&logoColor=ffd89b" alt="Portfolio"/>
+</a>
+<a href="mailto:imdeepanshu4work@gmail.com">
+  <img src="https://img.shields.io/badge/✉️_Email_Me-ffb347?style=for-the-badge&labelColor=1a2d4d&color=0a0e27" alt="Email"/>
+</a>
+<a href="https://www.linkedin.com/in/imdeepanshukaushik/" target="_blank">
+  <img src="https://img.shields.io/badge/💼_LinkedIn-ffd89b?style=for-the-badge&labelColor=1a2d4d&color=0a0e27" alt="LinkedIn"/>
+</a>
+<a href="https://x.com/Deepanshu25u" target="_blank">
+  <img src="https://img.shields.io/badge/𝕏_Follow-ffb347?style=for-the-badge&labelColor=1a2d4d&color=0a0e27" alt="Twitter"/>
+</a>
+</div>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=Deepanshu-ui-dev&label=👀_PROFILE_VIEWS&color=ffd89b&style=flat-square&labelColor=0a0e27" alt="Profile Views"/>
 
 </div>
 
@@ -37,14 +38,16 @@
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                         ABOUT ME                                  -->
+<!--                       ABOUT ME - PREMIUM                          -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
 ## ⚡ `$ whoami`
 
-<table>
+<div align="center">
+
+<table align="center">
 <tr>
-<td width="60%" valign="top">
+<td width="50%" valign="top">
 
 ```bash
 ┌──(deepanshu㉿flutter-dev)-[~]
@@ -54,7 +57,7 @@
 > ROLE       ::  Software Developer
 > FOCUS      ::  Flutter Dev + UI/UX Design
 > SKILLS     ::  DSA + Clean Architecture
-> STATUS     ::  [ █████████░ ] Open to Roles
+> STATUS     ::  [ Open to Roles ]
 
 > PHILOSOPHY:
   ↳ I build what's needed.
@@ -76,117 +79,132 @@
 ```
 
 </td>
-<td width="40%" align="center" valign="middle">
+<td width="50%"  valign="middle" align="center">
 
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2xzbnQ0MW43dzcyMTh6a2J3N2dwdGI0N2VhMzYwOW51bGQ3OTcweiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VtCCqtE7IQAjb25wqc/giphy.gif" width="280" style="border-radius:10px"/>
-
-<br/><br/>
-
-[![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Deepanshu-ui-dev&theme=dark&background=000000&ring=00BFFF&fire=00BFFF&currStreakLabel=00BFFF&sideLabels=888888&dates=555555&border=1a1a1a&stroke=00BFFF)](https://github.com/Deepanshu-ui-dev)
 
 </td>
 </tr>
 </table>
 
+</div>
+
 <br/>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                       TECH ARSENAL                                -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-
-## 🛠 `$ ls ./tech-arsenal/`
+## <img src="https://media.giphy.com/media/iY8CROnvK0XjH7sFbJ/giphy.gif" width="28px"/> Tech Stack
 
 <div align="center">
 
-**Mobile Development**
+### 📱 **Mobile Development**
+![Flutter](https://img.shields.io/badge/Flutter-0D47A1?style=for-the-badge&logo=flutter&logoColor=ffd89b&labelColor=1a2d4d)
+![Dart](https://img.shields.io/badge/Dart-0D47A1?style=for-the-badge&logo=dart&logoColor=ffd89b&labelColor=1a2d4d)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-0D47A1?style=for-the-badge&logo=android-studio&logoColor=ffb347&labelColor=1a2d4d)
 
-[![Mobile](https://skillicons.dev/icons?i=flutter,dart,androidstudio&theme=dark&perline=8)](https://skillicons.dev)
-
-`Flutter (Material & Cupertino)` · `Dart (async/await, streams)` · `Provider` · `Riverpod (basics)` · `Responsive & Adaptive UI` · `Clean Architecture`
-
-<br/>
-
-**Languages**
-
-[![Languages](https://skillicons.dev/icons?i=cpp,c,java,python,dart,javascript&theme=dark&perline=8)](https://skillicons.dev)
+**Provider** • **Riverpod** • **GetX** • **Material & Cupertino** • **Clean Architecture**
 
 <br/>
 
-**Frontend & Web**
+### 🖥️ **Languages & Core**
+![C++](https://img.shields.io/badge/C%2B%2B-0D47A1?style=for-the-badge&logo=c%2B%2B&logoColor=ffd89b&labelColor=1a2d4d)
+![Java](https://img.shields.io/badge/Java-0D47A1?style=for-the-badge&logo=java&logoColor=ffb347&labelColor=1a2d4d)
+![Python](https://img.shields.io/badge/Python-0D47A1?style=for-the-badge&logo=python&logoColor=ffd89b&labelColor=1a2d4d)
+![JavaScript](https://img.shields.io/badge/JavaScript-0D47A1?style=for-the-badge&logo=javascript&logoColor=ffb347&labelColor=1a2d4d)
 
-[![Frontend](https://skillicons.dev/icons?i=nextjs,react,html,css,figma,framermotion&theme=dark&perline=8)](https://skillicons.dev)
-
-<br/>
-
-**Backend & Databases**
-
-[![Backend](https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,mysql&theme=dark&perline=8)](https://skillicons.dev)
-
-`REST API Integration` · `Firebase (Auth, Firestore)`
+**Data Structures & Algorithms** • **Problem Solving** • **System Design**
 
 <br/>
 
-**Cloud, Design & Tools**
+### 🎨 **Frontend & Design**
+![React](https://img.shields.io/badge/React-0D47A1?style=for-the-badge&logo=react&logoColor=ffd89b&labelColor=1a2d4d)
+![Next.js](https://img.shields.io/badge/Next.js-0D47A1?style=for-the-badge&logo=next.js&logoColor=ffb347&labelColor=1a2d4d)
+![HTML5](https://img.shields.io/badge/HTML5-0D47A1?style=for-the-badge&logo=html5&logoColor=ffd89b&labelColor=1a2d4d)
+![CSS3](https://img.shields.io/badge/CSS3-0D47A1?style=for-the-badge&logo=css3&logoColor=ffb347&labelColor=1a2d4d)
+![Figma](https://img.shields.io/badge/Figma-0D47A1?style=for-the-badge&logo=figma&logoColor=ffd89b&labelColor=1a2d4d)
 
-[![Tools](https://skillicons.dev/icons?i=gcp,cloudflare,vercel,netlify,git,github,figma,sketch,photoshop&theme=dark&perline=9)](https://skillicons.dev)
+**UI/UX Design** • **Responsive Design** • **Framer Motion** • **Design Systems**
 
-`Adobe` · `Canva` · `Postman`
+<br/>
+
+### 🔧 **Backend & Database**
+![Node.js](https://img.shields.io/badge/Node.js-0D47A1?style=for-the-badge&logo=node.js&logoColor=ffb347&labelColor=1a2d4d)
+![Express](https://img.shields.io/badge/Express-0D47A1?style=for-the-badge&logo=express&logoColor=ffd89b&labelColor=1a2d4d)
+![MongoDB](https://img.shields.io/badge/MongoDB-0D47A1?style=for-the-badge&logo=mongodb&logoColor=ffb347&labelColor=1a2d4d)
+![Firebase](https://img.shields.io/badge/Firebase-0D47A1?style=for-the-badge&logo=firebase&logoColor=ffd89b&labelColor=1a2d4d)
+![MySQL](https://img.shields.io/badge/MySQL-0D47A1?style=for-the-badge&logo=mysql&logoColor=ffb347&labelColor=1a2d4d)
+
+**REST APIs** • **Real-time Databases** • **Authentication**
+
+<br/>
+
+### ☁️ **Cloud & Tools**
+![Git](https://img.shields.io/badge/Git-0D47A1?style=for-the-badge&logo=git&logoColor=ffb347&labelColor=1a2d4d)
+![GitHub](https://img.shields.io/badge/GitHub-0D47A1?style=for-the-badge&logo=github&logoColor=ffd89b&labelColor=1a2d4d)
+![GCP](https://img.shields.io/badge/Google%20Cloud-0D47A1?style=for-the-badge&logo=google-cloud&logoColor=ffb347&labelColor=1a2d4d)
+![Vercel](https://img.shields.io/badge/Vercel-0D47A1?style=for-the-badge&logo=vercel&logoColor=ffd89b&labelColor=1a2d4d)
+
+**VS Code** • **Postman** • **Adobe Suite** • **Sketch**
+
+</div>
+
+<br/>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Deepanshu-ui-dev&bg_color=0a0e27&color=ffd89b&line=1565c0&point=ffb347&area=true&area_color=1a2d4d&border_color=1a2d4d&hide_border=false&title_color=ffd89b&radius=16" alt="GitHub Activity Graph"/>
+
+<br/><br/>
 
 </div>
 
 
 <br/>
 
+<!-- CONTRIBUTION SNAKE ANIMATION -->
+<div align="center">
+<img src="https://raw.githubusercontent.com/Deepanshu-ui-dev/Deepanshu-ui-dev/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="100%"/>
+</div>
 
 <br/>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                   CONTRIBUTION GRAPH                              -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-
-## 🌿 `$ git graph --all`
+## 🤝 Let's Connect & Build Together
 
 <div align="center">
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Deepanshu-ui-dev&bg_color=000000&color=00BFFF&line=1a6fa0&point=00BFFF&area=true&area_color=000814&border_color=1a1a1a&hide_border=false&title_color=00BFFF"/>
-</div>
+
+### I'm always open to discussing design, code, and creating exceptional products.
 
 <br/>
 
-<!-- SNAKE GAME — requires a one-time GitHub Action setup -->
-<div align="center">
-<img src="https://raw.githubusercontent.com/Deepanshu-ui-dev/Deepanshu-ui-dev/output/github-contribution-grid-snake-dark.svg" alt="Snake eating my contributions" width="100%"/>
-</div>
-
-
-<br/>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                          FOOTER                                   -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-### `$ echo "Let's build something that matters."`
-
-<a href="https://www.deepanshux.tech/">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=crome&logoColor=00BFFF"/>
+<a href="https://www.deepanshux.tech/" target="_blank">
+  <img src="https://img.shields.io/badge/🌐_Portfolio-ffd89b?style=for-the-badge&labelColor=0a0e27&color=1a2d4d" alt="Portfolio"/>
 </a>
 <a href="mailto:imdeepanshu4work@gmail.com">
-  <img src="https://img.shields.io/badge/Email%20Me-000000?style=for-the-badge&logo=gmail&logoColor=00BFFF"/>
-</a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/imdeepanshukaushik/">
-  <img src="https://img.shields.io/badge/Connect-000000?style=for-the-badge&logo=linkedin&logoColor=00BFFF"/>
-</a>&nbsp;&nbsp;
-<a href="https://x.com/Deepanshu25u">
-  <img src="https://img.shields.io/badge/Follow-000000?style=for-the-badge&logo=x&logoColor=00BFFF"/>
+  <img src="https://img.shields.io/badge/✉️_Email-ffb347?style=for-the-badge&labelColor=0a0e27&color=1a2d4d" alt="Email"/>
+</a>
+<a href="https://www.linkedin.com/in/imdeepanshukaushik/" target="_blank">
+  <img src="https://img.shields.io/badge/💼_LinkedIn-ffd89b?style=for-the-badge&labelColor=0a0e27&color=1a2d4d" alt="LinkedIn"/>
+</a>
+<a href="https://x.com/Deepanshu25u" target="_blank">
+  <img src="https://img.shields.io/badge/𝕏_Twitter-ffb347?style=for-the-badge&labelColor=0a0e27&color=1a2d4d" alt="Twitter"/>
 </a>
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0096FF,35:001220,70:000814,100:000000&height=130&section=footer&text=Deepanshu-ui-dev%20%F0%9F%92%99&fontSize=24&fontColor=00BFFF&animation=fadeIn&fontAlignY=65"/>
+<br/>
+
+---
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e27,25:1a2d4d,50:0d47a1,75:1565c0,100:0a0e27&height=140&section=footer&text=Let%27s%20Build%20Something%20Remarkable%20%F0%9F%92%99&fontSize=26&fontColor=ffd89b&animation=fadeIn&fontAlignY=70"/>
+
+<div align="center">
+
+**Made with ❤️ by Deepanshu Kaushik | © 2026**
+
+</div>
